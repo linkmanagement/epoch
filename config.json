@@ -1,0 +1,156 @@
+{
+    "port": 7000,
+    "address": "127.0.0.1",
+    "serveHttpAPI": true,
+    "serveHttpWallet": true,
+    "version": "0.1.3",
+    "fileLogLevel": "info",
+    "consoleLogLevel": "log",
+    "sharePort": true,
+    "api": {
+        "access": {
+            "whiteList": []
+        }
+    },
+    "peers": {
+        "list": [],
+        "blackList": [],
+        "options": {
+            "timeout": 4000
+        }
+    },
+    "forging": {
+        "secret": [
+            "great call congress problem coin entry mimic oil near hand club balcony",
+            "cinnamon reward team main bus turtle tiger pattern force brand shaft eager",
+            "nuclear velvet deal equal pattern tuna burger teach panic belt system machine",
+            "cattle supply reopen arrow erosion rose fit camera frost energy onion pluck",
+            "wild mixture certain image fade office paddle baby language over magnet crowd",
+            "exist page fuel century attract left embark range runway young mushroom youth",
+            "warm cactus endorse solution stone lottery wear educate pigeon train fit alien",
+            "guide lottery february model kiss treat ring unaware crop damp twist insane",
+            "cup trade rent version crime cigar more tomorrow squeeze spatial romance civil",
+            "fiscal kit hello cargo happy achieve spoon universe jeans attack key park",
+            "vacuum provide install carpet fish always wave setup kangaroo until guard setup",
+            "chase section pumpkin foot concert region jealous rug pattern negative flat dolphin",
+            "south violin name excess excite engine repeat vague mansion depend angle giraffe",
+            "bus derive bird lab search typical ginger similar force young wink fly",
+            "course tone now film chicken comfort install gesture pride ketchup can proof",
+            "reveal comic feed frown thunder embrace easily toy foster simple aspect smooth",
+            "gasp similar mosquito sail output soda announce cave safe sell aerobic fish",
+            "host huge habit vendor weekend capable also design meadow combine endless charge",
+            "copy toe potato civil benefit syrup volcano hobby betray nuclear vacant few",
+            "almost charge pluck suit promote risk tiger simple dry loud home science",
+            "abuse jar crouch pencil close tool sugar twin derive try marine pole",
+            "enable absurd maze stable best flip immune stone face engine witness duck",
+            "ski admit cup service snap dune bronze shove egg ladder gospel slogan",
+            "solution air cigar surprise pupil grocery vault achieve young meadow ankle blur",
+            "rally camp chaos diesel ritual float carpet diesel abstract fade strategy auto",
+            "camera debris desk train soap valley very upon connect inform dance upon",
+            "husband vintage cube heart board ripple tissue ice fold cactus stuff shadow",
+            "random tattoo frozen enhance movie reform urban network avoid decrease coach way",
+            "tennis deer green congress version monitor wrap omit vanish must appear quarter",
+            "draft wave south stove just bitter improve hotel top able laugh peanut",
+            "document manage velvet allow obtain alien rate render army either draw cherry",
+            "entire arrive online expect sphere hold during submit sugar satisfy cherry april",
+            "pink angry split hill green shield stock divorce crack soccer also avoid",
+            "stem inform vital crowd rocket visit mask caution come build window raw",
+            "tree silver achieve unhappy ranch flock disorder jeans club summer pull accuse",
+            "bamboo forward fame casual hollow vault talk safe elite prosper question ability",
+            "giant journey silly enlist truth gym pyramid sweet repeat ticket force clinic",
+            "idle work valid short devote welcome harsh tooth notable finger retreat diagram",
+            "divert stomach lion enroll engine insane pink afraid body begin crunch object",
+            "suspect fortune symbol food plate metal typical gas that just village rifle",
+            "young inch pioneer genius crystal face soft twelve income dinner stay quarter",
+            "pony lend prosper duck walnut swift shrimp farm able social purity switch",
+            "galaxy pole segment inch steak orange cattle chair scale cake supply laptop",
+            "tongue shy upset raven avocado either soda furnace equip rally involve wrestle",
+            "guilt sorry hundred melody elegant elephant side flavor budget video chase danger",
+            "width slim grunt awkward wasp picture mother situate daring dilemma more still",
+            "patch include knife legal fold pulp monitor napkin consider island anger saddle",
+            "leopard change rare ahead creek bleak skill tomorrow patrol ancient oxygen kitten",
+            "practice alarm cliff benefit air sustain cloth elephant badge smart almost figure",
+            "beauty broken avocado patrol visa congress love physical toast setup cage glory",
+            "essay town fine distance shoot define anxiety record wet run sell need",
+            "theory security snap sense guide pipe property blast oxygen sense insect ring",
+            "similar various switch under patient finish elder myth dizzy require ensure dumb",
+            "bike wide pave sausage any mushroom burst ignore able ceiling sound skin",
+            "adjust busy damp gown sort design entry post share engage panel inject",
+            "farm world amount airport upgrade habit kid orchard fix canvas cereal number",
+            "decide source income risk story fatal void envelope youth page fine praise",
+            "prize media section post soldier camp object wreck enact agent power neglect",
+            "young still spoon eye water found dial winter present symptom little stereo",
+            "stumble axis tomato alley crouch inhale feel outside region assault shrimp involve",
+            "chef kit wink spirit airport float lawsuit fossil seat three bird guide",
+            "vehicle cigar drum list muscle atom bus truly note bullet robust slot",
+            "wise sorry truth ecology expand damage father buzz volume uncle bus mind",
+            "knife inside mushroom rescue decorate vendor shrimp yellow brick sunny comic base",
+            "cherry moon trial layer enlist vacant confirm broken adjust industry spider board",
+            "outside media reject current assault country proud farm bundle flame airport boy",
+            "treat ribbon yard staff envelope legal minimum learn toward divert lyrics liberty",
+            "dad home tongue pony churn despair bullet color vague width gun often",
+            "crouch front mesh access eagle average mesh sword canal uniform dose flag",
+            "nominee flag original cluster churn tomorrow border indoor satisfy unlock excess census",
+            "entry equip differ prepare vault bundle funny slight magnet stable glove usual",
+            "assault doctor basket nerve walnut minimum spin captain super eight stone rule",
+            "pledge sure faculty item weekend chimney rebuild snake nasty siege broken grief",
+            "absurd above debris matrix burst school snap tribe train bulk steel attitude",
+            "icon gift wait wave vapor solar myth punch left develop dog click",
+            "cool unable mule situate strong tool mushroom this scrub pool dentist farm",
+            "diamond flip beach among earth noise museum delay crawl peace comic submit",
+            "conduct novel virtual position december curious humble huge pen render address hover",
+            "neutral indoor wheel drop oblige cost arrow neither original grab purpose milk",
+            "talk sunny helmet fat receive chef range health weapon joke surface bulb",
+            "capable fall transfer clean ride wall piece race shell deny ice concert",
+            "harvest april exit gun tuition shift used virus device come uncover oak",
+            "apple gift young wrestle glide supply nose version fine much fade tissue",
+            "fix hobby cheap open multiply library seminar angry twenty kitchen plate breeze",
+            "buyer unaware toss mother climb squirrel pottery great tribe venue pistol bread",
+            "course coast walnut prize universe spawn ginger guitar census rotate staff recall",
+            "engage now when length lizard day vital protect theory exist rough rival",
+            "pulse inherit father grit recycle crop latin asset top rib balcony win",
+            "floor kangaroo simple slogan club swarm puppy stuff winner clock ship web",
+            "annual pulp satoshi galaxy tattoo bundle frame enlist whale street market daughter",
+            "shoulder member outside erupt blur tissue soft arrow fade dune hello patch",
+            "cube actual grit box eager either rural mail liberty chalk security image",
+            "onion maid about extra purse unveil salmon broken world gravity visit leave",
+            "mind web hollow toward arch picture woman side pretty nothing father tornado",
+            "earth such become annual month indoor deliver mask yellow razor refuse kingdom",
+            "elevator wasp unusual lemon mixed thumb drama occur milk gate cross ancient",
+            "use real include replace roof twice sponsor rack battle quantum staff live",
+            "leaf ritual point myself practice smoke paddle staff method loyal rookie favorite",
+            "thunder ask wool profit ankle discover gossip guide hope marriage lab inform",
+            "main just process luggage pool foam smoke liar file spoon sentence earn",
+            "now across enter blue mansion crop define cereal armor food neither atom"
+        ],
+        "access": {
+            "whiteList": [
+                "127.0.0.1"
+            ]
+        }
+    },
+    "loading": {
+        "verifyOnLoading": false,
+        "loadPerIteration": 5000
+    },
+    "sia": {
+        "peer": {
+            "ip": "127.0.0.1",
+            "port": 9980
+        }
+    },
+    "ssl": {
+        "enabled": false,
+        "options": {
+            "port": 443,
+            "address": "0.0.0.0",
+            "key": "./ssl/lmmcoin.key",
+            "cert": "./ssl/lmmcoin.crt"
+        }
+    },
+    "dapp": {
+        "masterrequired": true,
+        "masterpassword": "Hg9M6MehFdaR",
+        "autoexec": []
+    }
+}
