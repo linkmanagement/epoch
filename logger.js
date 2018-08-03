@@ -1,4 +1,4 @@
-var strftime = require('strftime');
+var  strftime = require('strftime');
 var fs = require('fs');
 require('colors');
 

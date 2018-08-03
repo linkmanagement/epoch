@@ -14,3 +14,4 @@ API available only after wallet loading, before all routes will return:
         "success" : false,
         "error" : "loading"
     }
+ 

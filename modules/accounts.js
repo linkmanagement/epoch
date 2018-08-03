@@ -1,4 +1,4 @@
-var crypto = require('crypto');
+var  crypto = require('crypto');
 var	bignum = require('../helpers/bignum.js');
 var	ed = require('ed25519');
 var	slots = require('../helpers/slots.js');

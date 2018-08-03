@@ -1,6 +1,6 @@
 
 
-var program = require('commander');
+var program  = require('commander');
 var packageJson = require('./package.json');
 var Logger = require('./logger.js');
 var appConfig = require("./config.json");

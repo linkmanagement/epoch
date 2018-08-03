@@ -1,4 +1,4 @@
-var async = require('async');
+var  async = require('async');
 var jsonSql = require('json-sql')();
 jsonSql.setDialect("sqlite")
 var constants = require('../helpers/constants.js');

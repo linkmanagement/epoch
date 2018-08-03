@@ -17,7 +17,7 @@ function Field(validator, path, value, rules, thisArg) {
     this.report = [];
     this.path = path||[];
     this.thisArg = thisArg||null;
-    this._stack = Object.keys(rules);
+     this._stack = Object.keys(rules);
     this.validator = validator;
     this.inProgress = false;
 }

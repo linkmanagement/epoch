@@ -1,4 +1,4 @@
-var utils = require('../validator/utils');
+var utils  = require('../validator/utils');
 
 module.exports = JsonSchema;
 
